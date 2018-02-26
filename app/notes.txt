@@ -1,0 +1,8 @@
+#forum
+
+1.thread
+2.reply
+3.user
+
+A.thread is create by a user
+B.a reply belongs to a thread, and belongs to a user.
